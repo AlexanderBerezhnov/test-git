@@ -13,3 +13,4 @@
 + git branch - выводит ветки
 + branch - ветка
 + git branch name - создание ветки
++ merge - слияние 2-ух веток
